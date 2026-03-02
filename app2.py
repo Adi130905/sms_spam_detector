@@ -79,3 +79,4 @@ if st.button('Predict'):
 
 # --- Footer ---
 st.sidebar.info("This model uses TF-IDF Vectorization and a Multinomial Naive Bayes Classifier.")
+
